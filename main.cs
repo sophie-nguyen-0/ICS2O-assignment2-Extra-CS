@@ -1,3 +1,8 @@
+//created by sophie
+// oct 2022
+//
+//this program calculates the perimeter of a triangle
+
 using System;
 
 class Program
